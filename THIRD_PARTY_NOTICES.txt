@@ -1,0 +1,49 @@
+CLEARLEDGER THIRD-PARTY NOTICES
+
+Karla variable font
+Official project: https://github.com/googlefonts/karla
+Official distribution: https://github.com/google/fonts/tree/main/ofl/karla
+Exact download:
+https://raw.githubusercontent.com/google/fonts/main/ofl/karla/Karla%5Bwght%5D.ttf
+Local: assets/fonts/karla-variable.ttf (unmodified; filename renamed only)
+Copyright and full SIL Open Font License 1.1: licenses/Karla-OFL.txt
+Licence origin: https://raw.githubusercontent.com/google/fonts/main/ofl/karla/OFL.txt
+
+Libre Caslon Display regular font
+Official distribution:
+https://github.com/google/fonts/tree/main/ofl/librecaslondisplay
+Exact download:
+https://raw.githubusercontent.com/google/fonts/main/ofl/librecaslondisplay/LibreCaslonDisplay-Regular.ttf
+Local: assets/fonts/libre-caslon-display.ttf (unmodified; filename renamed)
+Copyright and full SIL Open Font License 1.1:
+licenses/LibreCaslonDisplay-OFL.txt
+Licence origin:
+https://raw.githubusercontent.com/google/fonts/main/ofl/librecaslondisplay/OFL.txt
+
+Lenis 1.3.27
+Project: https://github.com/darkroomengineering/lenis
+Distribution: https://cdn.jsdelivr.net/npm/lenis@1.3.27/dist/lenis.min.js
+CSS: https://cdn.jsdelivr.net/npm/lenis@1.3.27/dist/lenis.css
+Local: assets/js/lenis-1.3.27.min.js, assets/css/lenis.css
+Copyright (c) 2024 darkroom.engineering. MIT.
+Full notice/grant: licenses/Lenis-MIT.txt
+Copied unchanged from the workspace's existing pinned Nookwell bundle.
+
+Adapted UI mechanics
+Menu/focus, one-clock smooth scrolling, slim scrollbars and measured FAQ
+mechanics adapted from Usman Khair Din's MIT Nookwell implementation
+(2026, canonical free/nookwell/), itself adapted from Taskline Lite.
+Retained complete licences:
+licenses/Nookwell-MIT.txt
+licenses/Taskline-MIT.txt
+Taskline notice includes Themesberg (2022) and Usman Khair Din (2026).
+No sibling visual shell, typeface, photography or business content copied.
+
+Original assets
+Clearledger wordmark ledger-rule geometry, assets/img/mark.svg,
+assets/img/ledger-workflow.svg, assets/img/ledger-compact.svg and inline
+interface SVGs are original work by Usman Khair Din for this template,
+covered by its MIT licence. No stock photography, people, external icon
+library or financial-data feed is included. Diagrams are illustrative,
+not software screenshots or actual financial records. The template does
+not imply certification, a software partnership or a financial outcome.
